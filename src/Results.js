@@ -12,7 +12,7 @@ const Results = ({ pets }) => {
             animal={animal}
             breed={breed}
             key={id}
-            image={images}
+            images={images}
             id={id}
             location={`${city}, ${state}`}
           />
